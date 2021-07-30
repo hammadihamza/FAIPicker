@@ -1,0 +1,19 @@
+
+form{
+    color: white;
+    background-color: #34568B;
+    margin: auto;
+width: 60%;
+padding: 10px;
+}
+.Result{
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid white;
+    border-radius: 20px;
+    align-items: center;
+}
+
+.Result:hover{
+    color: red;
+}
